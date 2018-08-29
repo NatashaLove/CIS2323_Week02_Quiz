@@ -1,4 +1,4 @@
-class Message {
+public class Message {
 	//array of as many strings as need - method
 	public static void main (String [] args) {
 		//easy way to print in java
